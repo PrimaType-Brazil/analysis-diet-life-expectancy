@@ -14,7 +14,7 @@ Este repositório contém um projeto de análise de dados que investiga a relaç
 │ │ └── primates_dataset_clean.csv # Dataset limpo
 │ │
 │ └── logs
-│ └── analysis.log
+│   └── analysis.log
 │
 ├── scripts
 │ ├── dieta_expectativa_vida.py # Script Python para análise
