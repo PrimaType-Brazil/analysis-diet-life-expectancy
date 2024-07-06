@@ -89,5 +89,3 @@ Contribuições são bem-vindas! Por favor, abra um pull request com suas melhor
 ---
 
 © 2024 PrimaType Brazil. Todos os direitos reservados.
-
-asdasd
