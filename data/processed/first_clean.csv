@@ -1,0 +1,147 @@
+species_id,species_name,population,year,habitat_region,diet,avg_lifespan,health_status
+1,Gorilla,1000.0,2020,Central Africa,Herbivore,35,Healthy
+2,Chimpanzee,5000.0,2020,West Africa,Omnivore,40,Endangered
+3,Orangutan,750.0,2020,Southeast Asia,Frugivore,45,Critically Endangered
+5,Bonobo,2500.0,2020,Central Africa,Herbivore,40,Vulnerable
+6,Lemur,2000.0,2020,Madagascar,Herbivore,25,Endangered
+7,Tarsier,1000.0,2020,Southeast Asia,Insectivore,12,Near Threatened
+8,Howler Monkey,1200.0,2020,South America,Frugivore,20,Healthy
+9,Spider Monkey,800.0,2020,South America,Frugivore,25,Vulnerable
+10,Macaque,3000.0,2020,East Asia,Omnivore,35,Healthy
+11,Gorilla,950.0,2019,Central Africa,Herbivore,34,Healthy
+12,Chimpanzee,4800.0,2019,West Africa,Omnivore,39,Endangered
+14,Gibbon,1450.0,2019,Southeast Asia,Omnivore,30,Healthy
+15,Bonobo,2450.0,2019,Central Africa,Herbivore,39,Vulnerable
+16,Lemur,1950.0,2019,Madagascar,Herbivore,24,Endangered
+17,Tarsier,970.0,2019,Southeast Asia,Insectivore,12,Near Threatened
+18,Howler Monkey,1150.0,2019,South America,Frugivore,19,Healthy
+19,Spider Monkey,780.0,2019,South America,Frugivore,24,Vulnerable
+20,Macaque,2900.0,2019,East Asia,Omnivore,34,Healthy
+21,Gorilla,900.0,2018,Central Africa,Herbivore,33,Healthy
+22,Chimpanzee,4700.0,2018,West Africa,Omnivore,38,Endangered
+23,Orangutan,700.0,2018,Southeast Asia,Frugivore,43,Critically Endangered
+24,Gibbon,1400.0,2018,Southeast Asia,Omnivore,29,Healthy
+25,Bonobo,2400.0,2018,Central Africa,Herbivore,38,Vulnerable
+26,Lemur,1900.0,2018,Madagascar,Herbivore,23,Endangered
+27,Tarsier,950.0,2018,Southeast Asia,Insectivore,11,Near Threatened
+28,Howler Monkey,1100.0,2018,South America,Frugivore,18,Healthy
+29,Spider Monkey,760.0,2018,South America,Frugivore,23,Vulnerable
+30,Macaque,2800.0,2018,East Asia,Omnivore,33,Healthy
+31,Gorilla,850.0,2017,Central Africa,Herbivore,32,Healthy
+32,Chimpanzee,4600.0,2017,West Africa,Omnivore,37,Endangered
+33,Orangutan,690.0,2017,Southeast Asia,Frugivore,42,Critically Endangered
+34,Gibbon,1350.0,2017,Southeast Asia,Omnivore,28,Healthy
+35,Bonobo,2350.0,2017,Central Africa,Herbivore,37,Vulnerable
+36,Lemur,1850.0,2017,Madagascar,Herbivore,22,Endangered
+37,Tarsier,930.0,2017,Southeast Asia,Insectivore,11,Near Threatened
+38,Howler Monkey,1050.0,2017,South America,Frugivore,17,Healthy
+39,Spider Monkey,740.0,2017,South America,Frugivore,22,Vulnerable
+40,Macaque,2700.0,2017,East Asia,Omnivore,32,Healthy
+41,Gorilla,800.0,2016,Central Africa,Herbivore,31,Healthy
+42,Chimpanzee,4500.0,2016,West Africa,Omnivore,36,Endangered
+43,Orangutan,680.0,2016,Southeast Asia,Frugivore,41,Critically Endangered
+44,Gibbon,1300.0,2016,Southeast Asia,Omnivore,27,Healthy
+45,Bonobo,2300.0,2016,Central Africa,Herbivore,36,Vulnerable
+46,Lemur,1800.0,2016,Madagascar,Herbivore,21,Endangered
+47,Tarsier,910.0,2016,Southeast Asia,Insectivore,10,Near Threatened
+48,Howler Monkey,1000.0,2016,South America,Frugivore,16,Healthy
+49,Spider Monkey,720.0,2016,South America,Frugivore,21,Vulnerable
+50,Macaque,2600.0,2016,East Asia,Omnivore,31,Healthy
+51,Gorilla,1000.0,2015,Central Africa,Herbivore,35,Healthy
+52,Chimpanzee,5000.0,2015,West Africa,Omnivore,40,Endangered
+53,Orangutan,750.0,2015,Southeast Asia,Frugivore,45,Critically Endangered
+55,Bonobo,2500.0,2015,Central Africa,Herbivore,40,Vulnerable
+56,Lemur,2000.0,2015,Madagascar,Herbivore,25,Endangered
+57,Tarsier,1000.0,2015,Southeast Asia,Insectivore,12,Near Threatened
+58,Howler Monkey,1200.0,2015,South America,Frugivore,20,Healthy
+59,Spider Monkey,800.0,2015,South America,Frugivore,25,Vulnerable
+60,Macaque,3000.0,2015,East Asia,Omnivore,35,Healthy
+61,Gorilla,950.0,2014,Central Africa,Herbivore,34,Healthy
+62,Chimpanzee,4800.0,2014,West Africa,Omnivore,39,Endangered
+64,Gibbon,1450.0,2014,Southeast Asia,Omnivore,30,Healthy
+65,Bonobo,2450.0,2014,Central Africa,Herbivore,39,Vulnerable
+66,Lemur,1950.0,2014,Madagascar,Herbivore,24,Endangered
+67,Tarsier,970.0,2014,Southeast Asia,Insectivore,12,Near Threatened
+68,Howler Monkey,1150.0,2014,South America,Frugivore,19,Healthy
+69,Spider Monkey,780.0,2014,South America,Frugivore,24,Vulnerable
+70,Macaque,2900.0,2014,East Asia,Omnivore,34,Healthy
+71,Gorilla,900.0,2013,Central Africa,Herbivore,33,Healthy
+72,Chimpanzee,4700.0,2013,West Africa,Omnivore,38,Endangered
+73,Orangutan,700.0,2013,Southeast Asia,Frugivore,43,Critically Endangered
+74,Gibbon,1400.0,2013,Southeast Asia,Omnivore,29,Healthy
+75,Bonobo,2400.0,2013,Central Africa,Herbivore,38,Vulnerable
+76,Lemur,1900.0,2013,Madagascar,Herbivore,23,Endangered
+77,Tarsier,950.0,2013,Southeast Asia,Insectivore,11,Near Threatened
+78,Howler Monkey,1100.0,2013,South America,Frugivore,18,Healthy
+79,Spider Monkey,760.0,2013,South America,Frugivore,23,Vulnerable
+80,Macaque,2800.0,2013,East Asia,Omnivore,33,Healthy
+81,Gorilla,850.0,2012,Central Africa,Herbivore,32,Healthy
+82,Chimpanzee,4600.0,2012,West Africa,Omnivore,37,Endangered
+83,Orangutan,690.0,2012,Southeast Asia,Frugivore,42,Critically Endangered
+84,Gibbon,1350.0,2012,Southeast Asia,Omnivore,28,Healthy
+85,Bonobo,2350.0,2012,Central Africa,Herbivore,37,Vulnerable
+86,Lemur,1850.0,2012,Madagascar,Herbivore,22,Endangered
+87,Tarsier,930.0,2012,Southeast Asia,Insectivore,11,Near Threatened
+88,Howler Monkey,1050.0,2012,South America,Frugivore,17,Healthy
+89,Spider Monkey,740.0,2012,South America,Frugivore,22,Vulnerable
+90,Macaque,2700.0,2012,East Asia,Omnivore,32,Healthy
+91,Gorilla,800.0,2011,Central Africa,Herbivore,31,Healthy
+92,Chimpanzee,4500.0,2011,West Africa,Omnivore,36,Endangered
+93,Orangutan,680.0,2011,Southeast Asia,Frugivore,41,Critically Endangered
+94,Gibbon,1300.0,2011,Southeast Asia,Omnivore,27,Healthy
+95,Bonobo,2300.0,2011,Central Africa,Herbivore,36,Vulnerable
+96,Lemur,1800.0,2011,Madagascar,Herbivore,21,Endangered
+97,Tarsier,910.0,2011,Southeast Asia,Insectivore,10,Near Threatened
+98,Howler Monkey,1000.0,2011,South America,Frugivore,16,Healthy
+99,Spider Monkey,720.0,2011,South America,Frugivore,21,Vulnerable
+100,Macaque,2600.0,2011,East Asia,Omnivore,31,Healthy
+101,Gorilla,750.0,2010,Central Africa,Herbivore,30,Healthy
+102,Chimpanzee,4400.0,2010,West Africa,Omnivore,35,Endangered
+103,Orangutan,670.0,2010,Southeast Asia,Frugivore,40,Critically Endangered
+104,Gibbon,1250.0,2010,Southeast Asia,Omnivore,26,Healthy
+105,Bonobo,2250.0,2010,Central Africa,Herbivore,35,Vulnerable
+106,Lemur,1750.0,2010,Madagascar,Herbivore,20,Endangered
+107,Tarsier,890.0,2010,Southeast Asia,Insectivore,10,Near Threatened
+108,Howler Monkey,950.0,2010,South America,Frugivore,15,Healthy
+109,Spider Monkey,700.0,2010,South America,Frugivore,20,Vulnerable
+110,Macaque,2500.0,2010,East Asia,Omnivore,30,Healthy
+111,Gorilla,900.0,2009,Central Africa,Herbivore,33,Healthy
+112,Chimpanzee,4700.0,2009,West Africa,Omnivore,38,Endangered
+113,Orangutan,700.0,2009,Southeast Asia,Frugivore,43,Critically Endangered
+114,Gibbon,1400.0,2009,Southeast Asia,Omnivore,29,Healthy
+115,Bonobo,2400.0,2009,Central Africa,Herbivore,38,Vulnerable
+116,Lemur,1900.0,2009,Madagascar,Herbivore,23,Endangered
+117,Tarsier,950.0,2009,Southeast Asia,Insectivore,11,Near Threatened
+118,Howler Monkey,1100.0,2009,South America,Frugivore,18,Healthy
+119,Spider Monkey,760.0,2009,South America,Frugivore,23,Vulnerable
+120,Macaque,2800.0,2009,East Asia,Omnivore,33,Healthy
+121,Gorilla,850.0,2008,Central Africa,Herbivore,32,Healthy
+122,Chimpanzee,4600.0,2008,West Africa,Omnivore,37,Endangered
+123,Orangutan,690.0,2008,Southeast Asia,Frugivore,42,Critically Endangered
+124,Gibbon,1350.0,2008,Southeast Asia,Omnivore,28,Healthy
+125,Bonobo,2350.0,2008,Central Africa,Herbivore,37,Vulnerable
+126,Lemur,1850.0,2008,Madagascar,Herbivore,22,Endangered
+127,Tarsier,930.0,2008,Southeast Asia,Insectivore,11,Near Threatened
+128,Howler Monkey,1050.0,2008,South America,Frugivore,17,Healthy
+129,Spider Monkey,740.0,2008,South America,Frugivore,22,Vulnerable
+130,Macaque,2700.0,2008,East Asia,Omnivore,32,Healthy
+131,Gorilla,800.0,2007,Central Africa,Herbivore,31,Healthy
+132,Chimpanzee,4500.0,2007,West Africa,Omnivore,36,Endangered
+133,Orangutan,680.0,2007,Southeast Asia,Frugivore,41,Critically Endangered
+134,Gibbon,1300.0,2007,Southeast Asia,Omnivore,27,Healthy
+135,Bonobo,2300.0,2007,Central Africa,Herbivore,36,Vulnerable
+136,Lemur,1800.0,2007,Madagascar,Herbivore,21,Endangered
+137,Tarsier,910.0,2007,Southeast Asia,Insectivore,10,Near Threatened
+138,Howler Monkey,1000.0,2007,South America,Frugivore,16,Healthy
+139,Spider Monkey,720.0,2007,South America,Frugivore,21,Vulnerable
+140,Macaque,2600.0,2007,East Asia,Omnivore,31,Healthy
+141,Gorilla,750.0,2006,Central Africa,Herbivore,30,Healthy
+142,Chimpanzee,4400.0,2006,West Africa,Omnivore,35,Endangered
+143,Orangutan,670.0,2006,Southeast Asia,Frugivore,40,Critically Endangered
+144,Gibbon,1250.0,2006,Southeast Asia,Omnivore,26,Healthy
+145,Bonobo,2250.0,2006,Central Africa,Herbivore,35,Vulnerable
+146,Lemur,1750.0,2006,Madagascar,Herbivore,20,Endangered
+147,Tarsier,890.0,2006,Southeast Asia,Insectivore,10,Near Threatened
+148,Howler Monkey,950.0,2006,South America,Frugivore,15,Healthy
+149,Spider Monkey,700.0,2006,South America,Frugivore,20,Vulnerable
+150,Macaque,2500.0,2006,East Asia,Omnivore,30,Healthy

@@ -1,0 +1,29 @@
+Análise da Relação entre Dieta e Expectativa de Vida
+
+Este relatório apresenta uma análise das tendência populacionais de diferentes espécies, baseada em uma relação direta entre a dieta e a expectativa de vida.
+
+Plano
+- Limpeza dos dados
+- Exploração inicial
+- Análise exploratória
+- Conclusão
+
+cleaning.py
+Na limpeza inicial realizada, dados que excluem a quantidade da população (contém NaN), não possuem valor para a análise,
+portanto foram excluídos com df.dropna().
+Também foram ignoradas algumas colunas que explicitamente não eram interessantes à análise ('social_behavior', 'genetic_variation', 'latitude', 'longitude').
+Dataset salvo com o nome: first_clean.csv
+
+eda.py
+Na análise inicial, já partindo do Dataset resultado da primeira limpeza, foi ordenado os dados por nome da espécie, ano de pesquisa e região
+de habitat, respectivamente nessa ordem. Com isso, nota-se que, o estado de saúde são recorrentes por espécie e não trazem um valor direto
+para a comparação, logo, removido da análise.
+Junto à essas colunas também foi excluído a 'species_id' que serve como uma forma de distinguir as espécies por ano, região, e de fato a espécie,
+e também foi deletado o 'year', porém com isso gera-se um problema pois a mesma espécie possui mais de um dado em diversos anos diferentes,
+sendo assim foi decidido agrupar os valores por espécie, dieta e região de habitat (que também são recorrentes por espécie), de forma que os valores
+populacionais fossem definidos por uma média entre eles, isso para gerar representação mais fiel aos respectivos valores anuais.
+
+analysis.py
+Inicialmente houveram 3 insights de análises, criar uma comparação entre a expectativa de vida entre as diferentes espécies, comparar a população.
+absoluta das espécies em relação os diferentes tipos de dieta, e fazer esta mesma análise utilizando o parâmetro regional para obter um esclarecimento
+maior.
