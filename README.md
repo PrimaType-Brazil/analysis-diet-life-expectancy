@@ -6,22 +6,25 @@ Este repositório contém um projeto de análise de dados que investiga a relaç
 ## Estrutura do Repositório
 ```plaintext
 .
-├── data
-│ ├── raw
+├── data/
+│ ├── raw/
 │ │ └── primates_dataset.csv # Dataset bruto
 │ │
-│ ├── processed
+│ ├── processed/
+│ │ ├── img/
+│ │ │ └── analise.png # Imagem resultante de análise
+│ │ │
 │ │ └── primates_dataset_clean.csv # Dataset limpo
 │ │
-│ └── logs
+│ └── logs/
 │   └── analysis.log
 │
-├── scripts
+├── scripts/
 │ ├── dieta_expectativa_vida.py # Script Python para análise
 │ ├── pyproject.toml # Arquivo de configuração do Poetry
 │ └── poetry.lock # Arquivo de lock do Poetry
 │
-├── reports
+├── reports/
 │ └── dieta_expectativa_vida.pdf # Relatório final em PDF
 │
 └── README.md # Descrição do repositório e instruções
